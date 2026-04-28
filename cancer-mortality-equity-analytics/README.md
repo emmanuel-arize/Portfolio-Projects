@@ -121,7 +121,7 @@ Adapting Kitagawa/Oaxaca-style methods to attribute disparity contributions acro
 | Geographic analysis | In Progress |
 | Decomposition workflows |  In Progress |
 | Methodology documentation |  In Progress |
-| Public dashboard link |  Planned |
+
 
 ---
 
